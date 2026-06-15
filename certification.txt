@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the koma TV 1.2
+---------------------------------------------------
+
+app_name - 						koma TV
+app_alias - 					komatv
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Centre
+app_author_country - 			Cameroon
+app_password - 					3BtwIHrY2FBK
+app_versionName - 				versionName "1.2"
+app_versionCode - 				102
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 13th of June 2026 01:25:13 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
